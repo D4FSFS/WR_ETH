@@ -1,7 +1,7 @@
 ###########
 
-This repository contains data and software/scripts for analysing spatiotemporal 
-trends in past wheat rust outbreaks in Ethiopia. The material may be used to 
+This repository contains data and scripts for analysing spatiotemporal 
+trends in wheat rust outbreaks in Ethiopia during years 2010 - 2019. The material may be used to 
 reproduce the results described in the manuscript:
 
 "Wheat rust epidemics damage Ethiopian wheat production: a decade of field 
@@ -9,8 +9,10 @@ disease surveillance reveals national-scale trends in past outbreaks"
 
 (PLOS One, 2020). 
 
-It may also be useful for future analyses of rust outbreaks as the tools can be 
-adapted for analysing wheat rust epidemiology in other geographical areas. 
+It may also be useful for future analyses of rust outbreaks as the scripts can be 
+adapted for analysing wheat rust prevalence data, 
+as given in the rusttracker data (https://rusttracker.cimmyt.org/), 
+for other geographical areas. 
 
 ###########
 
