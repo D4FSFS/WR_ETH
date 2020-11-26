@@ -24,7 +24,7 @@ Contents
   of previous wheat rust outbreaks in Ethiopia.  
   Please note that the survey data file contains all survey entries 
   available for Ethiopia for years 2007 - 2019 at the time of the study (2020). 
-  The survey database is continuously beeing updated as part of ongoing 
+  However, the survey database is continuously beeing updated as part of ongoing 
   surveillance efforts. The complete dataset along with survey forms and many 
   other useful resources is available online and upon request: 
   https://rusttracker.cimmyt.org/
