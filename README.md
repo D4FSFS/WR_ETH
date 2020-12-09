@@ -55,7 +55,7 @@ Contents
 	<br/>
 
 
-- "scripts/analyze_total_aggregated_stats" 
+- "scripts/analyse_total_aggregated_stats" 
     - script for getting an overview of the entire dataset, comparing total 
 	prevalance levels of each wheat rust by computing descriptive stats. 
 	- see Section "Aggregated wheat rust prevalence in Ethiopia during 
@@ -73,7 +73,7 @@ Contents
 	<br/>
 
    
-- "scripts/analyze_latlon_trends" 
+- "scripts/analyse_latlon_trends" 
     - scripts for analysing and plotting associations between latitude, longitude 
 	and wheat rust disease prevalence in Ethiopia.
 	- see Section "Aggregated spatial patterns of wheat rust outbreaks", 
@@ -81,14 +81,14 @@ Contents
 	<br/>
 
 	
-- "scripts/analyze_altitude_trends"
+- "scripts/analyse_altitude_trends"
     - scripts for analysing correlations between disease prevalence and altitude 
 	for all types of rusts 
 	- see Section "Long-term mean wheat rust disease prevalence on wheat fields 
 	  at different altitudes"; Fig 2, manuscript.
 
 	
-- "scripts/analyze_wheat_variety_trends"
+- "scripts/analyse_wheat_variety_trends"
 	- scripts for analysing disease prevalence on different wheat varieties in 
 	Ethiopia.
 	- see Section "Wheat rust prevalence on major wheat varieties in Ethiopia"
@@ -96,7 +96,7 @@ Contents
 	<br/>
 
 	
-- "scripts/analyze_interannual_variations"
+- "scripts/analyse_interannual_variations"
 	scripts for analysing interannual variations (test for linear trend) of 
 	disease prevalence for all wheat rusts during years 2010-2019.
 	- see Section "Temporal analysis of wheat rust outbreaks in Ethiopia"; 
@@ -104,7 +104,7 @@ Contents
 	<br/>
 
 
-- "scripts/analyze_within_season_disease_progress"
+- "scripts/analyse_within_season_disease_progress"
 	- script for analysing within-season disease progress (for different rusts 
 	and disease categories; logistic curve as a simple empirical model) of wheat
 	rusts in Ethiopia.
