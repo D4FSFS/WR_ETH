@@ -1,12 +1,12 @@
-%%% script analyse and plot rust disease prevalence as function of altitude for all three types of wheat rusts in ET
+%%% analyse and plot rust disease prevalence as function of altitude for all three types of wheat rusts in ET
 %
 % @ Marcel Meyer (2020); Visual Data Analysis Group, Uni Hamburg; Epidemiology Group, Uni Cambridge
 % 
 % Summary:
 % For all types of wheat rusts
 %   read the cleaned survey data and conduct additional consistency tests
-%   for data entries in the column "altitude
-%   for both wheat seasons in Ethiopia
+%   for data entries in the column "altitude"
+%     for both wheat seasons in Ethiopia
 %      for both disease measures (incidence, severity)
 %         count disease prevalence per altitude bin (2000-3000m)
 %         conduct linear fit to mean prevalence per altitude

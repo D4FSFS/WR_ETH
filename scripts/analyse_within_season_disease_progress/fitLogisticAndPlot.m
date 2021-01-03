@@ -143,12 +143,9 @@ function [mdlloglow,mdllogmod,mdlloghigh]=fitLogisticAndPlot(AllProps,iAllBiWeek
     hold on
 
     % legend
-    ldatalow=[iRustStr,' ','low',' ',iDisStrLeg];
-    linelow=['logistic curve fitted to ',ldatalow];
-    ldatamod=[iRustStr,' ','mod',' ',iDisStrLeg];
-    linemod=['logistic curve fitted to ',ldatamod];
-    ldatahigh=[iRustStr,' ','high',' ',iDisStrLeg];
-    linehigh=['logistic curve fitted to ',ldatahigh];
+    linelow=['logistic curve fitted to ',iRustStr,' ','[>= low]',' ',iDisStrLeg];
+    linemod=['logistic curve fitted to ',iRustStr,' ','[>= mod]',' ',iDisStrLeg];
+    linehigh=['logistic curve fitted to ',iRustStr,' ','high',' ',iDisStrLeg];
     %legend([p1,l1,p2,l2,p3,l3],ldatalow,linelow,ldatamod,linemod,ldatahigh,linehigh,'FontSize',10,'Location','NorthWest')
     legend([b(3),l1,b(2),l2,b(1),l3],[iRustStr,' ','low',' ',iDisStrLeg],linelow,[iRustStr,' ','moderate',' ',iDisStrLeg],linemod,[iRustStr,' ','high',' ',iDisStrLeg],linehigh,'FontSize',10,'Location','NorthWest')
 
