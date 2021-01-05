@@ -141,8 +141,8 @@ function calcAndPlotLinearTrendInDiseaseAltitude(XValues,AllProps,NumberSurveysP
     ylabel('Prevalence','FontSize',12);
 
     % legend
-    linelow=['linear fit to ',iRustStr,' ','[>= low]',' ',iDisStrLeg];
-    linemod=['linear fit to ',iRustStr,' ','[>= mod]',' ',iDisStrLeg];
+    linelow=['linear fit to ',iRustStr,' ','\geq low',' ',iDisStrLeg];
+    linemod=['linear fit to ',iRustStr,' ','\geq mod',' ',iDisStrLeg];
     linehigh=['linear fit to ',iRustStr,' ','high',' ',iDisStrLeg];
     if strcmp(iRustStr,'Yr')
         legend([b(3),l1,b(2),l2,b(1),l3],[iRustStr,' ','low',' ',iDisStrLeg],linelow,[iRustStr,' ','mod',' ',iDisStrLeg],linemod,[iRustStr,' ','high',' ',iDisStrLeg],linehigh,'FontSize',10,'Location','NorthWest')
