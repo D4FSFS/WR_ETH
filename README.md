@@ -1,15 +1,15 @@
 ###########
 
 This repository contains data and scripts for analysing spatiotemporal 
-trends in wheat rust outbreaks in Ethiopia during years 2010 - 2019. The material may be used to 
+trends in wheat rust outbreaks in Ethiopia during years 2010 - 2019. The material can be used to 
 reproduce the results described in the manuscript:
 
 "Wheat rust epidemics damage Ethiopian wheat production: a decade of field 
 disease surveillance reveals national-scale trends in past outbreaks" 
 
-(PLOS One, 2020). 
+(PLOS One, 2021;  https://doi.org/10.1371/journal.pone.0245697). 
 
-It may also be useful for future analyses of rust outbreaks as the scripts can be 
+Parts of the repository may be useful for future analyses of rust outbreaks as the scripts can be 
 adapted for analysing wheat rust prevalence data, 
 as given in the rusttracker data (https://rusttracker.cimmyt.org/), 
 for other geographical areas. 
@@ -20,14 +20,14 @@ for other geographical areas.
 Contents 
 
 "/surveyData" 
-- contains the file with all field survey data used in this study for analysis 
-  of previous wheat rust outbreaks in Ethiopia.  
+- contains the file with the field survey data used in this study for analysis 
+  of historical wheat rust outbreaks in Ethiopia.  
   Please note that the survey data file contains all survey entries 
   available for Ethiopia for years 2007 - 2019 at the time of the study (2020). 
   However, the survey database is continuously beeing updated as part of ongoing 
-  surveillance efforts. The complete dataset along with survey forms and many 
-  other useful resources is available online and upon request: 
-  https://rusttracker.cimmyt.org/
+  surveillance efforts. The complete dataset, including more recent data,
+  along with survey forms and many other useful resources is available online
+  and upon request: https://rusttracker.cimmyt.org/
 
 
 "/surveyData_cleaned" 
@@ -44,7 +44,7 @@ Contents
 
 
 - "scripts/data_cleaning_and_consistency_tests" 
-	- scripts for consistency and quality checks and data cleaning. 
+	- scripts for data-consistency, data-quality checks and data-cleaning. 
 	- see Section "Materials and Methods" in the manuscript.  
 	<br/>
 
@@ -137,5 +137,6 @@ Contents
 The material is provided under the GNU GENERAL PUBLIC open-source license (see 
 License file). If you have questions or comments or want to re-use or adapt some
 of the scripts, we would appreciate it if you contact one of the authors 
-(E-Mail of the corresponding author: marcel.meyer@uni-hamburg.de)
+(E-Mail of the corresponding authors: marcel.meyer@uni-hamburg.de, 
+d.hodson@cgiar.org, cag1@cam.ac.uk)
 
