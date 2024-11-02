@@ -7,7 +7,7 @@ reproduce the results described in the manuscript:
 "Wheat rust epidemics damage Ethiopian wheat production: a decade of field 
 disease surveillance reveals national-scale trends in past outbreaks" 
 
-(PLOS One, 2021;  https://doi.org/10.1371/journal.pone.0245697). 
+(PLOS One, 2021;  https://doi.org/10.1371/journal.pone.0245697)
 
 Parts of the repository may be useful for future analyses of rust outbreaks as the scripts can be 
 adapted for analysing wheat rust prevalence data, 
