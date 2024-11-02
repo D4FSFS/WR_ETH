@@ -138,5 +138,5 @@ The material is provided under the GNU GENERAL PUBLIC open-source license (see
 License file). If you have questions or comments or want to re-use or adapt some
 of the scripts, we would appreciate it if you contact one of the authors 
 (E-Mail of the corresponding authors: marcel.meyer@uni-hamburg.de, 
-d.hodson@cgiar.org, cag1@cam.ac.uk)
+d.hodson@cgiar.org, cag1@cam.ac.uk).
 
